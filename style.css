@@ -7,6 +7,13 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    padding: 20px; /* Dodaje odstęp od krawędzi okna przeglądarki */
+}
+
+section {
+    margin-bottom: 20px; /* Odstęp między sekcjami */
+    padding: 15px;      /* Odstęp wewnętrzny w każdej sekcji */
+    background: white;
 }
 
 h1, h2, h3 {
